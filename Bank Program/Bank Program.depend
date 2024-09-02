@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722263881 source:/home/holberton/Documents/c++/Bank Program/main.cpp
+	<iostream>
+	<string>
+
